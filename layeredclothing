@@ -1,0 +1,38 @@
+--made and leaked by antgame11 on v3rm <3
+
+waittime = 0.2
+--head and torso
+if game:GetService("Players").LocalPlayer.Character.Head:FindFirstChild("Head") then
+game:GetService("Players").LocalPlayer.Character.Head.Head:Remove()
+end
+
+wait(waittime)
+game:GetService("Players").LocalPlayer.Character.LowerTorso.LowerTorso:Remove()
+wait(waittime)
+game:GetService("Players").LocalPlayer.Character.UpperTorso.UpperTorso:Remove()
+wait(waittime)
+--hands and arms
+game:GetService("Players").LocalPlayer.Character.LeftHand.LeftHand:Remove()
+wait(waittime)
+game:GetService("Players").LocalPlayer.Character.RightHand.RightHand:Remove()
+wait(waittime)
+game:GetService("Players").LocalPlayer.Character.RightUpperArm.RightUpperArm:Remove()
+wait(waittime)
+game:GetService("Players").LocalPlayer.Character.LeftUpperArm.LeftUpperArm:Remove()
+wait(waittime)
+game:GetService("Players").LocalPlayer.Character.RightLowerArm.RightLowerArm:Remove()
+wait(waittime)
+game:GetService("Players").LocalPlayer.Character.LeftLowerArm.LeftLowerArm:Remove()
+wait(waittime)
+--legs
+game:GetService("Players").LocalPlayer.Character.RightLowerLeg.RightLowerLeg:Remove()
+wait(waittime)
+game:GetService("Players").LocalPlayer.Character.RightUpperLeg.RightUpperLeg:Remove()
+wait(waittime)
+game:GetService("Players").LocalPlayer.Character.LeftUpperLeg.LeftUpperLeg:Remove()
+wait(waittime)
+game:GetService("Players").LocalPlayer.Character.LeftLowerLeg.LeftLowerLeg:Remove()
+wait(waittime)
+game:GetService("Players").LocalPlayer.Character.LeftFoot.LeftFoot:Remove()
+wait(waittime)
+game:GetService("Players").LocalPlayer.Character.RightFoot.RightFoot:Remove()
